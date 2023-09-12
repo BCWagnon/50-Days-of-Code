@@ -1,6 +1,7 @@
 import './App.css';
 import {motion} from 'framer-motion';
 import {useState} from 'react';
+import ellie from '../src/images/ellie.PNG'
 
 function App() {
   const [isOpen, setIsOpen] = useState(false);
@@ -24,8 +25,8 @@ function App() {
           transition={{ duration: 1 }}
           className='expand'
           >
+              <img src={ellie} className="petPic"/>
             <div>
-              <p>Name: Ellie</p>
               <p>Age: 5 years old</p>
               <p>Breed: 1/4 Newfoundlad, 1/4 St.Bernard, 1/4 Great Pyreneese, and 1/4 Greater Swiss Mountain Dog</p>
               <p>Personality: Smelly Ellie is the first animal my partner and I added to our family. She will always have a specail place in our hearts. Thant being said- shes stinky! Shes goofy and very playful but is also VERY shy.</p>
