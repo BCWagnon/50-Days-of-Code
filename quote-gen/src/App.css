@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background: linear-gradient(to right, #24243e, #6c7aa7, #0f0c29);
+  color: aliceblue;
+}
+
+.App {
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.Quote {
+  margin-top: 100px;
+  display: grid;
+  place-items: center;
+  border: 2px solid rgba(0, 0, 0, 0.445);
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 20px 10px;
+  background-color: rgba(0, 0, 0, 0.349);
+}
+
+h1 {
+  font-size: 2rem;
+  margin-top: 100px;
+  margin-bottom: 0;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+button {
+  display: inline-block;
+  background-color: #ffffff;
+  padding: 5px;
+  width: 118px;
+  color: #000000;
+  text-align: center;
+  border: 4px double #cccccc;
+  border-radius: 10px; 
+  font-size: 16px; 
+  font-weight: bold;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 20px;
+}
