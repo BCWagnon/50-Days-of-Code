@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Press+Start+2P&family=Teko&display=swap');
+
+body {
+  background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+}
+
+.App {
+  text-align: center;
+  margin-top: 300px;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.content{
+  font-size: 25px;
+  font-family: 'Teko', sans-serif;
+  color: rgb(0, 0, 0);
+  text-shadow: 1px 1px 2px rgb(255, 255, 255);
+}
+
+.clock {
+  font-size: 70px;
+  font-family: 'Teko', sans-serif;
+  text-shadow: 1px 1px 2px rgb(255, 253, 253), 0 0 1em rgb(124, 84, 47), 0 0 0.2em rgb(124, 84, 47);
+}
+
