@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+html {
+  background-color: #fdd3ac;
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  
+}
+
+h1{
+  font-weight: bold;
+  font-family: 'Pangolin', cursive;
+  text-shadow: 2px 2px 3px rgb(255, 255, 255);
+}
+
+.game {
+  text-align: center;
+
+}
+
+.game-board {
+  padding: 15px;
+}
+
+.board-row, .board-row-btm, .status {
+  display: flex;
+  justify-content: center;
+}
+
+.board {
+  padding: 40px;
+  background-color: white;
+  border: solid black;
+  border-radius: 10px;
+  box-shadow: rgba(36, 36, 36, 0.637) 0px 7px 29px 0px;
+}
+
+.status {
+  font-size: 20px;
+  font-family: 'Pangolin', cursive;
+}
+
+.board-row-btm {
+  padding-bottom: 15px;
+}
+
+button {
+  height: 60px;
+  width: 60px;
+  font-family: 'Pangolin', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid black;
+}
+
+button:hover {
+  background-color: rgba(49, 49, 49, 0.308);
+}
+
+.highlight {
+  background-color: yellow;
+}
