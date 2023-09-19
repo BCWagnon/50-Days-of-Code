@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Day 5/50 of my 50-Day JavaScript Coding Challenge! 🌤️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Today was an exhilarating coding day, filled with twists and turns. I took on the challenge of building a weather app by following a fantastic tutorial on [freeCodeCamp](https://www.freecodecamp.org/news/learn-react-by-building-a-weather-app/). The road was a bit bumpy; I encountered some struggles with three different apps, two of which didn't quite work as expected. However, amidst the challenges, I emerged victorious with this weather app, and the learning experience was worth every struggle.
 
-## Available Scripts
+Let's dive into the highs and lows of today's coding adventure! ☁️🧑‍💻
 
-In the project directory, you can run:
+## What I Learned
 
-### `npm start`
+- **Null Checks:** Today, I gained a deep understanding of null checks and their significance in programming. Knowing when and where to perform null checks is crucial, especially when dealing with external data sources or user inputs.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Details
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Weather App:** Built a weather app using React, following a tutorial by [freeCodeCamp](https://www.freecodecamp.org/news/learn-react-by-building-a-weather-app/). The app now provides weather information seamlessly.
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you're curious about how I tackled this weather app challenge or want to explore the code, you can check out the project folder for Day 5. Inside, you'll find the code and any additional resources or instructions.
 
-### `npm run build`
+Feel free to tinker with the code, experiment, and use it as a learning resource for your own weather app projects.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Connect with Me
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Let's continue this incredible coding journey! Whether you have questions, want to discuss React, weather apps, or just want to chat about coding, you can find me on:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- LinkedIn: [Bridget Wagnon](https://www.linkedin.com/in/bridget-wagnon)
+- GitHub: [BCWagnon](https://github.com/BCWagnon)
 
-### `npm run eject`
+Stay persistent, keep coding, and let's conquer the coding storms! 🌩️👩‍💻 #CodingChallenge #React #WeatherApp #JavaScript
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
